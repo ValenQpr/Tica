@@ -1,0 +1,106 @@
+
+.barra{
+    justify-content: right;
+    padding-right: 5rem;
+}
+.navbar {
+    /* background: #FF6961 !important; */
+    background: #a3a3a3 !important;
+}
+a{
+    /* color: white !important; */
+    text-shadow: black;
+}
+img{
+    width: 100%;
+}
+body{
+    /* background: #77DD77; */
+    background: #ffffff;
+}
+.cripto{
+    text-align: center;
+}
+
+img.cripto2{
+    border: solid black 2px;
+}
+
+.sas{
+    font-size: 150%;
+}
+.juan{
+    font-size: 150%;
+}
+.carousel{
+    width: 75%;
+}
+.carrusel{
+    margin: 2%;
+    display: flex;
+    justify-content: center;
+}
+
+footer{
+    /* background: #FF6961; */
+    background: #979797 !important;
+    padding: 1rem;
+    font-size: 30px;
+}
+
+.TICA{
+    width: 50%;
+}
+h4{
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+}
+
+.container2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.container .card{
+    width: 330px;
+    height: 430px;
+    border-radius: 8px;
+    box-shadow: 0 2px 2px (0,0,0,0.2);
+    overflow: hidden;
+    margin: 20px;
+    text-align: center;
+}
+
+.container .card img{
+    width: 330px;
+    height: 220px;
+}
+.container .card h4{
+    font-weight: 600;
+}
+.container .card p{
+    padding: 0 1rem;
+    font-size: 16px;
+    font-weight: 300;
+}
+.container .card a{
+    font-weight: 500;
+    text-decoration: none;
+    color: #3498db
+}
+
+.social {
+    position: fixed;
+    right: 5%;
+    top: 750px;
+    z-index: 2000;
+}
+
+.contacto{
+    color: rgb(43, 255, 0) !important;
+}
